@@ -1,0 +1,21 @@
+@font-face 
+{
+    font-family: "Avenir Black";
+    src: url('../assets/fonts/Avenir-Black.eot'); /* IE9 Compat Modes */
+    src: url('../assets/fonts/Avenir-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../assets/fonts/Avenir-Black.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../assets/fonts/Avenir-Black.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../assets/fonts/Avenir-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../assets/fonts/Avenir-Black.svg#svgFontName') format('svg'); /* Legacy iOS */
+    src: url("../assets/fonts/Avenir-Black.woff");
+}
+@font-face {
+    font-family: "Avenir Book";
+    src: url('../assets/fonts/Avenir-Book.eot'); /* IE9 Compat Modes */
+    src: url('../assets/fonts/Avenir-Book.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../assets/fonts/Avenir-Book.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../assets/fonts/Avenir-Book.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../assets/fonts/Avenir-Book.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('../assets/fonts/Avenir-Book.svg#svgFontName') format('svg'); /* Legacy iOS */
+    src: url("../assets/fonts/Avenir-Book.woff");
+}
